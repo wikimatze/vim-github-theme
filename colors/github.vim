@@ -78,3 +78,12 @@ hi Pmenu                guibg=#babdb6 ctermbg=145 guifg=#555753 ctermfg=59
 hi StatusLine           guifg=#666666 ctermfg=59 guibg=#eaeaea ctermbg=188
 hi Visual               guifg=NONE ctermfg=NONE guibg=#ffffcc ctermbg=230
 
+"this is a workaround to show the cursor on the Terminal.app
+"thanks to: http://www.damtp.cam.ac.uk/user/rbw/vim-osx-cursor.html
+if $TERM_PROGRAM == "Apple_Terminal"
+  hi CursorLine term=none cterm=none "Invisible CursorLine
+  hi Cursor     ctermfg=none ctermbg=85
+
+  set cursorline
+  match Cursor /\%#/
+endif
