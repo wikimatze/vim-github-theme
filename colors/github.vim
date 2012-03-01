@@ -1,8 +1,9 @@
 " Vim color file
-" Maintainer: Bruno Michel <bmichel@menfin.info>
-" Last Change: May, 30, 2008
-" Version: 0.1
-" Homepage: http://github.com/nono/github_vim_theme/tree/master
+" Maintainer: Ricardo Valeriano <me@ricardovaleriano.com>
+"     Based on the work by: Bruno Michel <bmichel@menfin.info>
+" Last Change: Mar, 01, 2012
+" Version: 0.2
+" Homepage: http://github.com/ricardovaleriano/vim-github-theme
 
 " This is a ViM's version of the github color theme.
 
@@ -14,7 +15,6 @@ endif
 
 let g:colors_name = "github"
 set t_Co=256
-
 
 hi Comment              guifg=#999988 ctermfg=102 gui=italic
 
