@@ -63,8 +63,7 @@ hi Error                guifg=#a61717 ctermfg=124 guibg=#e3d2d2 ctermbg=188
 
 hi Todo                 guifg=#999988 ctermfg=102 gui=italic cterm=italic
 
-
-hi Cursor               guifg=NONE ctermfg=NONE guibg=#ffff33 ctermbg=227
+hi Cursor               guifg=NONE ctermfg=NONE guibg=#ff9900 ctermbg=227
 hi CursorLine           guifg=NONE ctermfg=NONE guibg=#ffffcc ctermbg=230
 hi Directory            guifg=#4183c4 ctermfg=68
 hi DiffAdd              guifg=#000000 ctermfg=16 guibg=#ddffdd ctermbg=194
