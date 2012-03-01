@@ -1,5 +1,5 @@
 " Vim color file
-" Maintainer: Ricardo Valeriano <me@ricardovaleriano.com>
+" Maintainer: Ricardo Valeriano <ricardo.valeriano@gmail.com>
 "     Based on the work by: Bruno Michel <bmichel@menfin.info>
 " Last Change: Mar, 01, 2012
 " Version: 0.2
