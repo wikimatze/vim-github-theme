@@ -9,7 +9,7 @@ Some patches were added from commits on another forks.
 ## Installing with pathogen
 ```
 cd ~/.vim/bundle
-git clone https://@github.com:ricardovaleriano/vim-github-theme.git
+git clone https://github.com/ricardovaleriano/vim-github-theme.git
 ```
 
 ## Installing manually
