@@ -76,7 +76,7 @@ hi ModeMsg              gui=bold cterm=bold
 hi Normal               guifg=#000000 ctermfg=16 guibg=#f8f8ff ctermbg=231
 hi Pmenu                guibg=#babdb6 ctermbg=145 guifg=#555753 ctermfg=59
 hi StatusLine           guifg=#666666 ctermfg=59 guibg=#eaeaea ctermbg=188
-hi Visual               guifg=NONE ctermfg=NONE guibg=#ffffcc ctermbg=230
+hi Visual               guifg=NONE ctermfg=NONE guibg=#ffffcc ctermbg=220
 
 "this is a workaround to show the cursor on the Terminal.app
 "thanks to: http://www.damtp.cam.ac.uk/user/rbw/vim-osx-cursor.html
